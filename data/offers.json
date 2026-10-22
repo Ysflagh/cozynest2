@@ -1,0 +1,15 @@
+{
+  "offers": [
+    {
+      "id": "room-planner-demo",
+      "category": "living",
+      "title": "Free 3D Room Planner: Design Your Space Online",
+      "image": "assets/room-planner.jpg",
+      "badge": "FREE TO TRY",
+      "coupon": "HS10",
+      "price": "Free",
+      "link": "#REPLACE_WITH_YOUR_AFFILIATE_LINK",
+      "description": "Demo offer — replace the link with your real affiliate URL before publishing."
+    }
+  ]
+}
