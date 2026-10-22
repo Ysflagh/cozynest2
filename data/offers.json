@@ -12,4 +12,17 @@
       "description": "Demo offer — replace the link with your real affiliate URL before publishing."
     }
   ]
+  [
+    {
+      "id": "TEST",
+      "category": "Lighting",
+      "title": "test Light",
+      "image": "assets/lighting.jpg",
+      "badge": "FREE TO TRY",
+      "coupon": "f5to",
+      "price": "Free",
+      "link": "#REPLACE_WITH_YOUR_AFFILIATE_LINK",
+      "description": "Demo offer — replace the link with your real affiliate URL before publishing."
+    }
+  ]
 }
