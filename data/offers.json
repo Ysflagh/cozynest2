@@ -13,7 +13,7 @@
     },
     {
       "id": "TEST",
-      "category": "Lighting",
+      "category": "lighting",
       "title": "test Light",
       "image": "assets/lighting.jpg",
       "badge": "FREE TO TRY",
